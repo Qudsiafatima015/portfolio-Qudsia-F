@@ -1,0 +1,52 @@
+
+/* Background style details */
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    color: black;
+    font-size: 17px ;
+}
+
+header {
+    background-color: steelblue;
+    color : white;
+   font-size: 18px;
+   text-align: left;
+}
+
+#about {
+    background-color :white;
+    color: black;
+    font-size: 17px;
+    text-align: left;
+
+}
+#skills {
+    background-color: white;
+    color: black;
+    font-size: 17px;
+    text-align: left;
+}
+
+
+table {
+    background-color: lightpink;
+    color: black;
+    font-size: 17px;
+    text-align: center;
+}
+
+#contact {
+    background-color: white;
+    color: black;
+    font-size: 18px;
+    text-align: right;
+}
+
+
+footer {
+    background-color: dimgray;
+    color: white;
+    text-align: left;
+    font-size: 14px;
+}
